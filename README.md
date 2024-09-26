@@ -53,6 +53,7 @@ To run this application, you need to have the following installed:
 ```bash
 git clone https://github.com/AashishDhakal/spam-detector.git
 cd spam-detector
+
 ```
 
 ### 2. Build and Run the Docker Container
